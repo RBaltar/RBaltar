@@ -23,7 +23,6 @@
 
 </div>
 
-![Snake animation](https://github.com/RBaltar/RBaltar/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 RBaltar/RBaltar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
